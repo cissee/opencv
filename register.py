@@ -1,3 +1,5 @@
+#Ce code offre une méthode simple pour capturer et enregistrer les caractéristiques faciales 
+#d'un utilisateur dans une base de données, facilitant ainsi la reconnaissance faciale ultérieure
 import cv2
 import face_recognition
 import numpy as np
