@@ -1,4 +1,4 @@
-# Membres : Ousmane Cisse - Samba Coumba Ba - Aichatou Dia - Mohamed Camara
+# Membres : Ousmane Cisse - Samba Coumba Ba - Aichatou Dia
 Projet Computer Vision : Mise en place d’un système de pointage automatique par reconnaissance facial
 
 Objectif du Projet
